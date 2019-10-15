@@ -14,5 +14,6 @@ I read the [33 concepts every JavaScript developer should know](https://github.c
 | 3  | Learning      | Tim Ferriss' DiSSS system for accelerated learning |            |
 | 4  | TypeScript    | Used with Node and React                           |            |
 | 5  | Kubenetes     | Basics of deploying apps and internal services     |            |
-| 6  | GraphQL       | Handling deprecated fields, metrics over queries   |            |
-| 7  | C language    | Basics of compiling, testing, memory management    |            |
+| 6  | GraphQL       | Handling deprecated fields, metrics over queries   | 2019-09-01 |
+| 7  | C language    | Basics of compiling, testing, memory management    | 2019-08-01 |
+| 8  | DDD           | Domain Driven Design architecture, implement in app|            |
