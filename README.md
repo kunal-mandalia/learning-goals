@@ -7,13 +7,14 @@ I read the [33 concepts every JavaScript developer should know](https://github.c
 
 ## Topics and Outcomes
 
-| Id | Category      | Description                                        | Completed  |
-|----|---------------|----------------------------------------------------|------------|
-| 1  | JavaScript    | Call stack, event loop, task queue                 | 2018-12-30 |
-| 2  | Microservices | Handling distributed transactions using Sagas      |            |
-| 3  | Learning      | Tim Ferriss' DiSSS system for accelerated learning |            |
-| 4  | TypeScript    | Used with Node and React                           |            |
-| 5  | Kubenetes     | Basics of deploying apps and internal services     |            |
-| 6  | GraphQL       | Handling deprecated fields, metrics over queries   | 2019-09-01 |
-| 7  | C language    | Basics of compiling, testing, memory management    | 2019-08-01 |
-| 8  | DDD           | Domain Driven Design architecture, implement in app|            |
+| Id | Category      | Description                                         | Completed  |
+|----|---------------|-----------------------------------------------------|------------|
+| 1  | JavaScript    | Call stack, event loop, task queue                  | 2018-12-30 |
+| 2  | Microservices | Handling distributed transactions using Sagas       |            |
+| 3  | Learning      | Tim Ferriss' DiSSS system for accelerated learning  |            |
+| 4  | TypeScript    | Used with Node and React                            | 2020-02-01 |
+| 5  | Kubenetes     | Basics of deploying apps and internal services      |            |
+| 6  | GraphQL       | Handling deprecated fields, metrics over queries    | 2019-09-01 |
+| 7  | C language    | Basics of compiling, testing, memory management     | 2019-08-01 |
+| 8  | DDD           | Domain Driven Design architecture, implement in app |            |
+| 9  | SQL           | Query optimisation (EXPLAIN)                        |            |
