@@ -1,5 +1,5 @@
 # learning-goals
-The topics I want a better understanding of going into 2019
+The topics I want a better understanding of
 
 ## Motivation
 
@@ -18,3 +18,5 @@ I read the [33 concepts every JavaScript developer should know](https://github.c
 | 7  | C language    | Basics of compiling, testing, memory management     | 2019-08-01 |
 | 8  | DDD           | Domain Driven Design architecture, implement in app |            |
 | 9  | SQL           | Query optimisation (EXPLAIN)                        |            |
+| 10 | Memory        | Allocations on the Stack vs Heap, deallocations     |            |
+| 11 | Algorithms    | Sorting algorithms including merge, quick sort      |            |
