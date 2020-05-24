@@ -20,3 +20,4 @@ I read the [33 concepts every JavaScript developer should know](https://github.c
 | 9  | SQL           | Query optimisation (EXPLAIN)                        |            |
 | 10 | Memory        | Allocations on the Stack vs Heap, deallocations     |            |
 | 11 | Algorithms    | Sorting algorithms including merge, quick sort      | 2020-02-01 |
+| 12 | TCP/IP & OSI  | Basics of internet architecture (packet movement)   |            | 
